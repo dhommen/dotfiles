@@ -1,0 +1,7 @@
+shell = "/bin/zsh"
+
+[window]
+padding = { x = 5, y = 0 }
+
+[font]
+normal = { family = "JetBrainsMono NF" }
